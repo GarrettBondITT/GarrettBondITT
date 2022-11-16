@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working/learning in ...
+- 🔭 I’m currently working/learning in:
 -- Python
 -- Databricks
 
