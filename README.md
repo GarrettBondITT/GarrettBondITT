@@ -5,7 +5,7 @@
 -- Databricks
 
 - ⚡ I'm interested in: 
--- JavaScript
+-- TypeScript
 -- React
 -- Css
 -- Tailwinds
