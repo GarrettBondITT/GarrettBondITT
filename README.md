@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working/learning in:
--- Python
+-- Python/SQL
 -- Databricks
 
 - ⚡ I'm interested in: 
